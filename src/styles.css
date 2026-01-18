@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.star-span {
+  color: goldenrod;
+  cursor: pointer;
+}
+
+.star {
+  cursor: pointer;
+}
